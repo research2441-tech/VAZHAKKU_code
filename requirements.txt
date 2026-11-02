@@ -1,0 +1,14 @@
+torch>=2.4
+torchaudio>=2.4
+transformers>=4.44
+speechbrain>=1.0
+librosa>=0.10
+soundfile
+numba
+numpy
+scipy
+pandas
+pyarrow
+scikit-learn
+matplotlib
+huggingface_hub
